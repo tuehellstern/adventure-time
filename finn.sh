@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Adventure Time!!"
+echo "ADVENTURE TIME!!!"
