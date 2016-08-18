@@ -1,5 +1,4 @@
 #!/bin/bash
-#echo "Mathemagical!"
-echo "Sig noget andet ..."
+echo "Mathemagical!"
 echo "I love Lady Rainicorn"
 
